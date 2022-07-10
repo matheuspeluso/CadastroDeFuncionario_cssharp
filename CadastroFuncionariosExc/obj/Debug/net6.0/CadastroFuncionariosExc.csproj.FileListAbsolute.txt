@@ -1,0 +1,15 @@
+C:\Users\teteu\Desktop\CURSO DE C#\sessao 10 - herança e polimorfismo\exercicio resolvido\CadastroFuncionariosExc\CadastroFuncionariosExc\bin\Debug\net6.0\CadastroFuncionariosExc.exe
+C:\Users\teteu\Desktop\CURSO DE C#\sessao 10 - herança e polimorfismo\exercicio resolvido\CadastroFuncionariosExc\CadastroFuncionariosExc\bin\Debug\net6.0\CadastroFuncionariosExc.deps.json
+C:\Users\teteu\Desktop\CURSO DE C#\sessao 10 - herança e polimorfismo\exercicio resolvido\CadastroFuncionariosExc\CadastroFuncionariosExc\bin\Debug\net6.0\CadastroFuncionariosExc.runtimeconfig.json
+C:\Users\teteu\Desktop\CURSO DE C#\sessao 10 - herança e polimorfismo\exercicio resolvido\CadastroFuncionariosExc\CadastroFuncionariosExc\bin\Debug\net6.0\CadastroFuncionariosExc.dll
+C:\Users\teteu\Desktop\CURSO DE C#\sessao 10 - herança e polimorfismo\exercicio resolvido\CadastroFuncionariosExc\CadastroFuncionariosExc\bin\Debug\net6.0\CadastroFuncionariosExc.pdb
+C:\Users\teteu\Desktop\CURSO DE C#\sessao 10 - herança e polimorfismo\exercicio resolvido\CadastroFuncionariosExc\CadastroFuncionariosExc\obj\Debug\net6.0\CadastroFuncionariosExc.csproj.AssemblyReference.cache
+C:\Users\teteu\Desktop\CURSO DE C#\sessao 10 - herança e polimorfismo\exercicio resolvido\CadastroFuncionariosExc\CadastroFuncionariosExc\obj\Debug\net6.0\CadastroFuncionariosExc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teteu\Desktop\CURSO DE C#\sessao 10 - herança e polimorfismo\exercicio resolvido\CadastroFuncionariosExc\CadastroFuncionariosExc\obj\Debug\net6.0\CadastroFuncionariosExc.AssemblyInfoInputs.cache
+C:\Users\teteu\Desktop\CURSO DE C#\sessao 10 - herança e polimorfismo\exercicio resolvido\CadastroFuncionariosExc\CadastroFuncionariosExc\obj\Debug\net6.0\CadastroFuncionariosExc.AssemblyInfo.cs
+C:\Users\teteu\Desktop\CURSO DE C#\sessao 10 - herança e polimorfismo\exercicio resolvido\CadastroFuncionariosExc\CadastroFuncionariosExc\obj\Debug\net6.0\CadastroFuncionariosExc.csproj.CoreCompileInputs.cache
+C:\Users\teteu\Desktop\CURSO DE C#\sessao 10 - herança e polimorfismo\exercicio resolvido\CadastroFuncionariosExc\CadastroFuncionariosExc\obj\Debug\net6.0\CadastroFuncionariosExc.dll
+C:\Users\teteu\Desktop\CURSO DE C#\sessao 10 - herança e polimorfismo\exercicio resolvido\CadastroFuncionariosExc\CadastroFuncionariosExc\obj\Debug\net6.0\refint\CadastroFuncionariosExc.dll
+C:\Users\teteu\Desktop\CURSO DE C#\sessao 10 - herança e polimorfismo\exercicio resolvido\CadastroFuncionariosExc\CadastroFuncionariosExc\obj\Debug\net6.0\CadastroFuncionariosExc.pdb
+C:\Users\teteu\Desktop\CURSO DE C#\sessao 10 - herança e polimorfismo\exercicio resolvido\CadastroFuncionariosExc\CadastroFuncionariosExc\obj\Debug\net6.0\CadastroFuncionariosExc.genruntimeconfig.cache
+C:\Users\teteu\Desktop\CURSO DE C#\sessao 10 - herança e polimorfismo\exercicio resolvido\CadastroFuncionariosExc\CadastroFuncionariosExc\obj\Debug\net6.0\ref\CadastroFuncionariosExc.dll
